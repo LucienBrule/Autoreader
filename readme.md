@@ -28,10 +28,12 @@ Parses any text and pipes pipes it into say with alternating voices.
 - yeah
 
 **Generate you own audio books (alpha)***
+
 0. submit a PR / wait for me to do this in a week.
 1. add a -f flag and a file to the say subprocess call
 
 **Command line options**
+
 
 - ```help``` :: display Usage
 - ```
